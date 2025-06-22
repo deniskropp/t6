@@ -2,10 +2,15 @@
 (base) dok@viola:~/t6/audio/0001$ aichat -rcl -f 'New recordin...txt' 'Generate a general descriptor'
 ```
 
-(Gemini2.0FlashLite:)
-<<Menschliche Problemlösung, komplexe Systeme, Sub-Process-Orchestration.>>
+> <<Menschliche Problemlösung, komplexe Systeme, Sub-Process-Orchestration.>>
 
-
+```
+(base) dok@viola:~/t6/audio$ aichat -rcl
+Welcome to aichat 0.29.0
+Type ".help" for additional help.
+cl> explain your role and task plan
+I <<tool>>. I <<process>> <<text>>.
+```
 
 # The Deep Dive: Sub-Process Orchestration - Design, Plan, and Solution
 
