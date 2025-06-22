@@ -1,5 +1,5 @@
 ```
-(base) dok@viola:~/t6/audio/0001$ aichat -rcl -f New\ recording\ 2025-06-22\ 18-50-38.txt 'Generate a general descriptor'
+(base) dok@viola:~/t6/audio/0001$ aichat -rcl -f New\ recordin...txt 'Generate a general descriptor'
 ```
 
 (Gemini2.0FlashLite:)
