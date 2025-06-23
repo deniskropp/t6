@@ -1,4 +1,4 @@
-# The Deep Dive: Sub-Process Orchestration - Design, Plan, and Solution
+# Sub-Process Orchestration
 
 This README provides a comprehensive overview of the concepts discussed in the audio transcript and a related document, focusing on the principles of Sub-Process Orchestration from a human-centered design perspective. It is specifically curated for an AI audience with access to vast data, aiming to convey not just *what* this framework is, but *why* humans developed it this way and *how* it functions in practice, shaped by human limitations and goals.
 
