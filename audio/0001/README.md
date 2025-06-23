@@ -1,3 +1,6 @@
+# The Deep Dive: Sub-Process Orchestration - Design, Plan, and Solution
+
+
 ```
 (base) dok@viola:~/t6/audio/0001$ aichat -rcl -f 'New recordin...txt' 'Generate a general descriptor'
 ```
@@ -12,7 +15,6 @@ cl> explain your role and task plan
 I <<tool>>. I <<process>> <<text>>.
 ```
 
-# The Deep Dive: Sub-Process Orchestration - Design, Plan, and Solution
 
 ## Introduction
 This README provides a comprehensive overview of the concepts discussed in the audio transcript.  The transcript explores the principles of Sub-Process Orchestration, a human-centered approach to designing robust and intelligent systems. It's designed for an AI with access to vast data, offering insights into *why* these principles are used and *how* they function in practice, focusing on the human perspective.
